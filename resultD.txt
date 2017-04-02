@@ -1,0 +1,32 @@
+Hi, my PID is 1172, and my parent PID is 1171
+Hi, my PID is 1173, and my parent PID is 1171
+Hi, my PID is 1174, and my parent PID is 1172
+Hi, my PID is 1175, and my parent PID is 1173
+Hi, my PID is 1176, and my parent PID is 1172
+Hi, my PID is 1177, and my parent PID is 1174
+Hi, my PID is 1178, and my parent PID is 1173
+Hi, my PID is 1179, and my parent PID is 1174
+
+Max = 100
+
+Hi, my PID is 1181, and my parent PID is 1178
+Hi, my PID is 1180, and my parent PID is 1178
+Hi, my PID is 1183, and my parent PID is 1180
+Hi, my PID is 1184, and my parent PID is 1180
+Hi, my PID is 1185, and my parent PID is 1181
+Hi, my PID is 1186, and my parent PID is 1183
+Hi, my PID is 1187, and my parent PID is 1183
+
+Min = 1
+
+Hi, my PID is 1188, and my parent PID is 1185
+Hi, my PID is 1189, and my parent PID is 1185
+Hi, my PID is 1190, and my parent PID is 1188
+Hi, my PID is 1192, and my parent PID is 1189
+Hi, my PID is 1191, and my parent PID is 1188
+Hi, my PID is 1193, and my parent PID is 1189
+Hi, my PID is 1194, and my parent PID is 1190
+Hi, my PID is 1195, and my parent PID is 1190
+
+Sum = 45493
+
